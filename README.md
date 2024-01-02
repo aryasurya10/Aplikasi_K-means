@@ -34,11 +34,11 @@ Bagian laporan ini mencakup:
 ## Data Understanding
 | Nomer | Variabel           | Tipe Data | Keterangan                           |
 | ----- | ------------------ | :-------: | ------------------------------------ |
-| 1     | CustomerID              |  int64 | Berisi Nama nama pelanggan           |
-| 2     | Genre             | object| Berisi umur pelanggan                |
-| 3     | Age              |  int64   | Berisi jenis kelamin pelanggan       |
-| 4     | Annual Income        |  int64   | Berisi Tingkat pendidikan pelanggan  |
-| 5     | Spending Score          |  int64  | Berisi pendapatan pelanggan          |
+| 1     | CustomerID         |  int64    | Berisi Nama nama pelanggan           |
+| 2     | Age                | object    | Berisi umur pelanggan                |
+| 3     | Genre              |  int64    | Berisi jenis kelamin pelanggan       |
+| 4     | Annual Income      |  int64    | Berisi Tingkat pendidikan pelanggan  |
+| 5     | Spending Score     |  int64    | Berisi pendapatan pelanggan          |
 
 
 ![image](A3.png)
